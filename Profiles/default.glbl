@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test'</initValue>
+      <name>environment</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'username'</initValue>
+      <name>client_id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'password'</initValue>
+      <name>client_secret</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Is populated at runtime</description>
+      <initValue>''</initValue>
+      <name>authToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>false</initValue>
+      <name>stopOnFail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Prints stuff in logs</description>
+      <initValue>true</initValue>
+      <name>DEBUG_MODE</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
